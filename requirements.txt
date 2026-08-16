@@ -1,0 +1,9 @@
+streamlit>=1.30.0
+pymupdf>=1.28.0
+pillow>=10.0.0
+edge-tts>=7.0.0
+gtts>=2.5.0
+google-genai>=2.0.0
+pydub>=0.25.1
+rapidocr_onnxruntime>=1.2.0
+onnxruntime>=1.15.0
